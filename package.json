@@ -1,0 +1,17 @@
+{
+
+  "name": "ca-storage",
+  "version": "0.0.1",
+  "description": "water storage in California",
+  "author": "videmsky",
+  "license": "MIT",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/NewCaliforniaWaterAtlas/ca-storage"
+  },
+	"devDependencies": {
+	  "awsbox": "*"
+	}
+
+}
